@@ -1,4 +1,4 @@
-<p align="center"><a href="https://s0mnaths.github.io/"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="#"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 ## Hello guys, this is Gyanchith! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <a href="https://octodex.github.com/catstello/"><img src="https://octodex.github.com/images/catstello.png" width="200"  align="right"></a>
